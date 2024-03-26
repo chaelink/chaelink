@@ -11,9 +11,9 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
 </p>
 
-<align="center>
+<div align="center>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lin5476)](https://solved.ac/lin5476)
-  </>
+</div>
 
 
 <!--
