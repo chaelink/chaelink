@@ -20,6 +20,8 @@
 
   <h3>✨ GitHub Stats ✨</h3>
 ![chaelink's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=radical)
+[![chaelink's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=radical)](https://github.com/chaelink)
+
 
 [![chaelink GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/chaelink/github-readme-stats#gh-light-mode-only)
 
