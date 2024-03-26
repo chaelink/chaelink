@@ -17,8 +17,13 @@
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lin5476)](https://solved.ac/lin5476)
 
+
   <h3>✨ GitHub Stats ✨</h3>
 ![chaelink's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=radical)
+
+[![chaelink GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/chaelink/github-readme-stats#gh-light-mode-only)
+
+
 </div>
 
 
