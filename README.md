@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
 </p>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lin5476)](https://solved.ac/lin5476)
+
 
 <!--
 **chaelink/chaelink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
