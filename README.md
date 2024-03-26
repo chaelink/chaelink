@@ -23,7 +23,7 @@
 [![chaelink's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=radical)](https://github.com/chaelink)
 
 
-[![chaelink GitHub stats](https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/chaelink/github-readme-stats#gh-light-mode-only)
+[![chaelink GitHub stats](https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=radical)](https://github.com/chaelink/github-readme-stats)
 
 
 </div>
