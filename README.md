@@ -22,7 +22,7 @@
 </br>
   <h3>✨ GitHub Stats ✨</h3>
 
-[![chaelink GitHub stats](https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=radical)](https://github.com/chaelink/github-readme-stats)
+[![chaelink GitHub stats](https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=gruvbox_light)](https://github.com/chaelink/github-readme-stats)
 
 
 </div>
