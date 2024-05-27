@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20There!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=f7b731&text=chaelink's%20github&section=header&textBg=false&fontColor=ffffff&fontAlign=50&fontSize=70&fontAlignY=42&animation=fadeIn)
 
 </br>
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
 </p>
+🔭studying backend programming
 </br>
 </br>
 <div align="center">
@@ -26,6 +27,7 @@
 
 </div>
 
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=f7b731&section=footer&textBg=false&fontColor=213&fontAlign=50&fontSize=70&fontAlignY=42&animation=fadeIn)
 
 <!--
 **chaelink/chaelink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
