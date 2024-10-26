@@ -14,12 +14,15 @@
 </br>
 
 <h3>:thought_balloon:Articles</h3>
-<h4>JPA와 Spring Data JPA의 차이는? https://torinunakcl.tistory.com/49</h4>
-<h4>DB 외래 키 제약 조건 오류 해결 https://torinunakcl.tistory.com/47</h4>
+<h4>JPA와 Spring Data JPA의 차이는? | https://torinunakcl.tistory.com/49</h4>
+<h4>DB 외래 키 제약 조건 오류 해결 | https://torinunakcl.tistory.com/47</h4>
+
 </br>
 - - -
+</br>
 
-### 🏆 Baekjoon solved Rank 🏆  | ✨ GitHub Stats ✨
+<div align="center">
+<h3> 🏆 Baekjoon solved Rank 🏆  | ✨ GitHub Stats ✨ </h3>
 
 <p align="center">
   <a href="https://solved.ac/lin5476">
@@ -29,6 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=gruvbox_light" alt="chaelink GitHub stats" />
   </a>
 </p>
+</div>
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=fff2cc&section=footer&textBg=false&fontColor=213&fontAlign=50&fontSize=70&fontAlignY=42&animation=fadeIn)
