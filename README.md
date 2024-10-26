@@ -12,6 +12,7 @@
 </br>
 - - -
 </br>
+</br>
 
 <h3>:thought_balloon:Articles</h3>
 <h4>JPA와 Spring Data JPA의 차이는? | https://torinunakcl.tistory.com/49</h4>
@@ -21,20 +22,35 @@
 - - -
 </br>
 </br>
+
+<h3>:computer:Education</h3>
+<h4>( 21.03 ~ )숭실대학교 AI융합학부 </h4>
+  
+</br>
+</br>
 </br>
 
-<div align="center">
-<h3> 🏆 Baekjoon solved Rank 🏆  | ✨ GitHub Stats ✨ </h3>
 
-<p align="center">
-  <a href="https://solved.ac/lin5476">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lin5476" alt="Solved.ac 프로필" />
-  </a>
-  <a href="https://github.com/chaelink/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=gruvbox_light" alt="chaelink GitHub stats" />
-  </a>
-</p>
-</div>
+
+### 🏆 Baekjoon solved Rank 🏆  | ✨ GitHub Stats ✨
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://solved.ac/lin5476">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lin5476" alt="Solved.ac 프로필" />
+        <br>Baekjoon solved Rank
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chaelink/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=gruvbox_light" alt="chaelink GitHub stats" />
+        <br>GitHub Stats
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=fff2cc&section=footer&textBg=false&fontColor=213&fontAlign=50&fontSize=70&fontAlignY=42&animation=fadeIn)
