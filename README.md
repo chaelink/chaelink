@@ -1,50 +1,35 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=fff2cc&text=chaelink's%20github&section=header&textBg=false&fontColor=ffffff&fontAlign=50&fontSize=70&fontAlignY=42&animation=fadeIn)
 
-</br>
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
-  <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
+<h3>:relaxed:Kwon Chae Lin</h3>
+<h4>🔭studying backend programming</h4>
+<h4>안녕하세요, 백엔드 개발자 권채린입니다.</h4>
+<h4>Java 기반 Spring Boot 프레임워크를 사용하여 상상을 실현시키는 웹 애플리케이션을 만듭니다.</h4>
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
-<h4 align="center">🔭studying backend programming</h4>
-</br>
-</br>
-<div align="center">
-  <h3>🏆 Baekjoon solved Rank 🏆</h3>
-  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lin5476)](https://solved.ac/lin5476)
 
 </br>
+- - -
 </br>
-  <h3>✨ GitHub Stats ✨</h3>
 
-[![chaelink GitHub stats](https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=gruvbox_light)](https://github.com/chaelink/github-readme-stats)
+<h3>:thought_balloon:Articles</h3>
+<h4>JPA와 Spring Data JPA의 차이는? https://torinunakcl.tistory.com/49</h4>
+<h4>DB 외래 키 제약 조건 오류 해결 https://torinunakcl.tistory.com/47</h4>
+</br>
+- - -
 
+### 🏆 Baekjoon solved Rank 🏆  | ✨ GitHub Stats ✨
 
+<p align="center">
+  <a href="https://solved.ac/lin5476">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lin5476" alt="Solved.ac 프로필" />
+  </a>
+  <a href="https://github.com/chaelink/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=chaelink&show_icons=true&theme=gruvbox_light" alt="chaelink GitHub stats" />
+  </a>
+</p>
 
-</div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=fff2cc&section=footer&textBg=false&fontColor=213&fontAlign=50&fontSize=70&fontAlignY=42&animation=fadeIn)
 
-<!--
-**chaelink/chaelink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
