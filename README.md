@@ -22,11 +22,16 @@
 - - -
 </br>
 </br>
-
-<h3>:computer:Education</h3>
-<h4>( 21.03 ~ )숭실대학교 AI융합학부 </h4>
+<h3>:leaves:Opensource Contributes</h3>
+<h4>[PR OPEN]spring-data-redis/Add allow cache configuration from file | https://github.com/spring-projects/spring-data-redis/pull/3059</h4>
+<h4> [오픈소스 멘토링]오픈소스 기여 후기 | https://torinunakcl.tistory.com/53</h4>
   
 </br>
+- - -
+</br>
+</br>
+<h3>:computer:Education</h3>
+<h4>( 21.03 ~ )숭실대학교 AI융합학부 </h4>
 </br>
 </br>
 
