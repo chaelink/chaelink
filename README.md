@@ -16,6 +16,7 @@
 
 <h3>:thought_balloon:Articles</h3>
 <h4>JPA와 Spring Data JPA의 차이는? | https://torinunakcl.tistory.com/49</h4>
+<h4>JPA 페이징 처리 기법에 대해, 어느 방법이 내 프로젝트에 적격일까? | https://torinunakcl.tistory.com/48</h4>
 <h4>DB 외래 키 제약 조건 오류 해결 | https://torinunakcl.tistory.com/47</h4>
 
 </br>
@@ -23,8 +24,8 @@
 </br>
 </br>
 <h3>:leaves:Opensource Contributes</h3>
-<h4>[PR OPEN]spring-data-redis/Add allow cache configuration from file | https://github.com/spring-projects/spring-data-redis/pull/3059</h4>
-<h4> [오픈소스 멘토링]오픈소스 기여 후기 | https://torinunakcl.tistory.com/53</h4>
+<h4>[PR closed]spring-data-redis/Add allow cache configuration from file | https://github.com/spring-projects/spring-data-redis/pull/3059</h4>
+<h4> [오픈소스 멘토링]오픈소스 기여 도전 후기 | https://torinunakcl.tistory.com/53</h4>
   
 </br>
 - - -
