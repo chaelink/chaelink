@@ -12,8 +12,6 @@
 </br>
 - - -
 </br>
-</br>
-
 <h3>:thought_balloon:Articles</h3>
 <h4>JPA와 Spring Data JPA의 차이는? | https://torinunakcl.tistory.com/49</h4>
 <h4>JPA 페이징 처리 기법에 대해, 어느 방법이 내 프로젝트에 적격일까? | https://torinunakcl.tistory.com/48</h4>
