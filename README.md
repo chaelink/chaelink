@@ -30,7 +30,8 @@
 </br>
 </br>
 <h3>:computer:Education</h3>
-<h4>( 21.03 ~ )숭실대학교 AI융합학부 </h4>
+<h4>( 21.03 ~ 25.08 ) 숭실대학교 AI융합학부 졸업 </h4>
+<h4>( 25.03 ~ 25.08 ) KB국민은행 KB IT's YOUR LIFE 수료 </h4>
 </br>
 </br>
 
